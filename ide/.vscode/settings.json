@@ -9,8 +9,8 @@
   "jenkins-runner.hostConfigs": {
     "pipelines-7080": {
       "url": "http://jenkins:7080",
-      "user": "delyanDimitrov",
-      "password": "delyanDimitrov",
+      "user": "admin",
+      "password": "admin",
       "useCrumbIssuer": true
     }
   }
